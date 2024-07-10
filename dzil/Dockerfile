@@ -1,4 +1,4 @@
-FROM deriv/perl
+FROM ngeojiajun/perl
 ARG http_proxy
 
 WORKDIR /app/
